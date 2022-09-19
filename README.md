@@ -2,7 +2,7 @@
 - 👀 I’m interested in Business and People Analytics 📊 
 - 🌱 I’m currently learning SQL, Tableau, Python, R 💻
 - 💞️ I’m looking to collaborate on projects and new innovative ideas 💡 
-- 📫 Connect and drop a DM: linkedin.com/in/naamai | Tableau = @CodeNameAmy📩
+- 📫 Connect and drop a DM: linkedin.com/in/naamai | Tableau = @CodeNameAmy  📩
 
 <!---
 CodeNameAmy/CodeNameAmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
